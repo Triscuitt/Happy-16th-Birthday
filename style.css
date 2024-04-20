@@ -121,7 +121,8 @@ body {
 
 .container {
   width: 400px;
-  height: 350px;
+  height: 300px;
+  bottom: 200px;
   background-color: #ffffff;
   position: absolute;
   transform: translate(-50%, -50%) scale(0.85);
