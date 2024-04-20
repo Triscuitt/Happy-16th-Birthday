@@ -221,22 +221,3 @@ body {
   100% {
     transform: scale(1) rotate(45deg);
   }
-
- /* For mobile devices */
-@media screen and (max-width: 600px) {
-  .container {
-    width: 30%;
-    height: auto;
-    top: 50%;
-    transform: translate(-50%, -50%) scale(0.85);
-  }
-  
-  .cake {
-    width: 70%;
-    bottom: 30%;
-    margin-top: 10px;
-  }
-  
-  /* Adjust other styles as needed */
-}
-
