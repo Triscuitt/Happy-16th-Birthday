@@ -225,7 +225,7 @@ body {
  /* For mobile devices */
 @media screen and (max-width: 600px) {
   .container {
-    width: 90%;
+    width: 80%;
     height: auto;
     top: 50%;
     transform: translate(-50%, -50%) scale(0.85);
